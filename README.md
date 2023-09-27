@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taingmenghai" alt="taingmenghai" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel, Nuxt.js**
+- 🌱 I’m currently learning **Laravel, NuxtJS**
 
 - 📫 How to reach me **menghai.taing@gmail.com**
 
